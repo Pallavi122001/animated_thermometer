@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+  box-sizing: border-box;
+  font-family: cursive;
+  background: rgb(169, 216, 247);
+}
+.main-heading{
+    padding: 30px;
+    color:rgb(6, 33, 56);
+    text-shadow: 15px 15px 15px rgb(234, 233, 238);
+    font-size:100px;
+    text-align: center;
+    padding-top:250px ;
+}
